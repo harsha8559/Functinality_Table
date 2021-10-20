@@ -1,0 +1,66 @@
+div {
+  width: 1200px;
+  border: 1px solid black;
+  margin-left: 150px;
+  background-color: aqua;
+}
+#todo-list {
+  list-style-type: none;
+  width: 800px;
+  border: 1px solid black;
+  margin-left: 200px;
+  background-color: cornflowerblue;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  border: 1px solid black;
+  margin-left: 200px;
+  margin-top: 10px;
+  height: 25px;
+  margin-bottom: 10px;
+  font-size: larger;
+  background-color: crimson;
+  color: aliceblue;
+}
+
+#button {
+  width: 200px;
+  height: 25px;
+  margin: 10px;
+  border: 2px solid black;
+  font-size: bold;
+  background-color: darkblue;
+  color: aliceblue;
+}
+#remove {
+  width: 200px;
+  height: 25px;
+  margin: 10px;
+  border: 2px solid black;
+  font-size: bold;
+  background-color: darkblue;
+  color: aliceblue;
+}
+#update {
+  width: 200px;
+  height: 25px;
+  margin: 10px;
+  border: 2px solid black;
+  font-size: bold;
+  background-color: darkblue;
+  color: aliceblue;
+}
+#input {
+  width: 200px;
+  height: 25px;
+  margin: 10px;
+  border: 2px solid black;
+  font-size: bold;
+  background-color: darkblue;
+  color: aliceblue;
+}
+#trash {
+  width: 10px;
+}
